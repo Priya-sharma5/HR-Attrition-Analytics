@@ -12,6 +12,6 @@ The HR Attrition Dynamic Dashboard is an interactive Excel-based tool designed t
 - The dashboard provides a high-level summary of attrition rates, including overall attrition rate, voluntary vs. involuntary attrition, and attrition by department or team.
 - Interactive charts and graphs allow users to visualize attrition trends over time, enabling them to identify periods with high attrition or significant changes in attrition rates.
 
-![Screenshot 2023-05-20 233230]
+![Screenshot 2023-05-20 233230](https://github.com/Priya-sharma5/HR-Attrition-Analytics/blob/bf830b910c73fc6ec2dadbe50bdba549c6d52cc0/Dashboard.png)
 
 
